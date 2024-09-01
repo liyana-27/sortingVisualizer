@@ -1,12 +1,7 @@
 # Sorting Visualizer
-
----
-
 ![Screenshot of the webpage](/assets/sortingvis.png "SortingVisualizer SS")
 
-### Introduction
-
----
+## Introduction
 
 This is a code repository for my Sorting Visalizer website which can be viewed [here](https://liyana-27.github.io/sortingVisualizer) or at <https://liyana-27.github.io/sortingVisualizer>.
 
@@ -25,9 +20,7 @@ The website has the following features:
   - Deep Red - compared elements
   - Green - sorted array
 
-### Technologies
-
----
+## Technologies
 
 1. HTML
 2. CSS
